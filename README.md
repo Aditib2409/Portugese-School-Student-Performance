@@ -1,13 +1,12 @@
 # Portugese-School-Student-Performance
 Developed Machine learning Systems that operate on the given real-world dataset.
 
-\section{Abstract}
+# ABSTRACT
 
 In this project an end-to-end Regression based Machine Learning model is built on the Portugese Student Performance Dataset. On whole a totla of three Missions were performed: \\
-\begin{itemize}
-    \item MISSION 1: Predict first-period academic performance without any prior academic performance data.
-    \item MISSION 2: Predict final-period academic performance without any prior academic performance data.
-    \item MISSION 3: Predict final academic performance using all available prior academic performance data.
+   MISSION 1: Predict first-period academic performance without any prior academic performance data.
+   MISSION 2: Predict final-period academic performance without any prior academic performance data.
+   MISSION 3: Predict final academic performance using all available prior academic performance data.
 \end{itemize}
 
 Firstly, a detailed Exploratory data analysis is conducted along with Feature selection
