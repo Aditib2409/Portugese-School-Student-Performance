@@ -9,5 +9,5 @@ MISSION 1: Predict first-period academic performance without any prior academic 
 MISSION 2: Predict final-period academic performance without any prior academic performance data. <br/>
 MISSION 3: Predict final academic performance using all available prior academic performance data. <br/>
 
-Firstly, a detailed Exploratory data analysis is conducted along with Feature selection
-A brief, informative description of your project. Include the problem, dataset(s) you used, approach (naming the machine learning methods you used and how you compared them), and key results (be sure to include at least your best result and the method with which you obtained it, for each dataset).
+After loading the data into pandas dataframes, train and test sets are created which are later used for feature selection. We first begin with the visualizations of the features. For this, the Seaborn and MAtplotlib library was used to compute histograms, KDE plots and bar plots to visualize the behaviour of the different features. Additionally, In the case of feature Selection, five different techniques were thoroughly studied using the scikit-learn library. 
+
